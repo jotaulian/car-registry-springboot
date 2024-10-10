@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jotaulian</groupId>
-	<artifactId>CarRegistry</artifactId>
+	<artifactId>carregistry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CarRegistry</name>
-	<description>Application for  Car Registry</description>
+	<description>app para registrar vehículos</description>
 	<url/>
 	<licenses>
 		<license/>
