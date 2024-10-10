@@ -1,4 +1,4 @@
-package com.jotaulian.CarRegistry.repository;
+package com.jotaulian.carregistry.repository;
 
 public interface CarRepository {
 

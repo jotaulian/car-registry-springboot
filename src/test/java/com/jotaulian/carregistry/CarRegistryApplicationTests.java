@@ -1,4 +1,4 @@
-package com.jotaulian.CarRegistry;
+package com.jotaulian.carregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

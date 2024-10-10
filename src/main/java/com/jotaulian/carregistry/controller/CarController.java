@@ -1,7 +1,6 @@
-package com.jotaulian.CarRegistry.controller;
+package com.jotaulian.carregistry.controller;
 
-import com.jotaulian.CarRegistry.service.CarService;
-import com.jotaulian.CarRegistry.service.impl.CarServiceImpl;
+import com.jotaulian.carregistry.service.CarService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

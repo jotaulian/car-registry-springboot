@@ -1,4 +1,4 @@
-package com.jotaulian.CarRegistry.service;
+package com.jotaulian.carregistry.service;
 
 public interface CarService {
 

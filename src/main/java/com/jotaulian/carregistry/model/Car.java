@@ -1,4 +1,4 @@
-package com.jotaulian.CarRegistry.model;
+package com.jotaulian.carregistry.model;
 
 
 import lombok.AllArgsConstructor;
